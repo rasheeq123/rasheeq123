@@ -40,3 +40,7 @@
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizvi_rasheeq_7985)
 [![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rasheeq_123)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rasheeq_123/)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheeq123&" alt="rasheeq123" /></p>
+
