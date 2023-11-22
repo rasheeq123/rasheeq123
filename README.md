@@ -10,16 +10,33 @@
 <h1 align="left">Github History:</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasheeq123&show_icons=true&locale=en" alt="Rasheeq" /></p>
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Things I deal with
+![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
+![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor)
+![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor)
+![mongodb](https://img.shields.io/badge/mongodb-blue?style=for-the-badge&logo=mongodb&logoColor)
+![css3](https://img.shields.io/badge/css3-purple?style=for-the-badge&logo=css3&logoColor=white)
+![html5](https://img.shields.io/badge/Html5-violet?style=for-the-badge&logo=html5&logoColor=white)
+![postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=white)
+![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-1DA1F2?style=for-the-badge&logo=node.js&logoColor=white)
+![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![yarn](https://img.shields.io/badge/yarn-1DA1F2?style=for-the-badge&logo=yarn&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor)
+![markdown](https://img.shields.io/badge/Markdown-1DA1F2?style=for-the-badge&logo=markdown&logoColor=white)
+![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor)
+![expressjs](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor)
+![c](https://img.shields.io/badge/-C?style=for-the-badge&logo=C&logoColor=white)
+![c++](https://img.shields.io/badge/++-purple?style=for-the-badge&logo=c&logoColor)
+![microsoft_office](https://img.shields.io/badge/microsoft_office-grey?style=for-the-badge&logo=microsoftoffice&logoColor)
+![microsoft_excel](https://img.shields.io/badge/microsoft_excel-purple?style=for-the-badge&logo=microsoftexcel&logoColor)
+![visual_studio_code](https://img.shields.io/badge/visual_studio_code-red?style=for-the-badge&logo=visualstudiocode&logoColor)
+![canve](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white)
+![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)
+![mendeley](https://img.shields.io/badge/xampp-white?style=for-the-badge&logo=xampp&logoColor)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rasheeq-zehra-mern-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasheeq zehra" height="30" width="40" /></a>
-<a href="https://instagram.com/rizvi_rasheeq_7985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizvi_rasheeq_7985" height="30" width="40" /></a>
-</p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheeq123&" alt="rasheeq" /></p>
-
+## Where to find me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheeq-zehra-mern-developer/)
+[![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizvi_rasheeq_7985)
+[![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rasheeq_123)
+[![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rasheeq_123/)
