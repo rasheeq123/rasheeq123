@@ -4,10 +4,11 @@
 
 
 
-- 🌱 MERN enthusiast during the day, C++ data juggler by dusk. Crafting elegant solutions and unlocking algorithmic mysteries.
+- 🌱 MERN enthusiast during the day, C++ juggler by dusk. Crafting elegant solutions and unlocking algorithmic mysteries.
 - ⚛️ Full Stack Web Developer (MERN)
 - 🗣️ Public Speaker
 - 📚 Literature Enthusiast
+- 🚀 Crafting code and conquering challenges, one commit at a time. 
 
   
  
