@@ -14,7 +14,7 @@
  
   
 ## Things I deal with
-![MUI](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor)
+![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=MUI&logoColor)
 ![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor)
 ![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![nodejs](https://img.shields.io/badge/nodejs-1DA1F2?style=for-the-badge&logo=node.js&logoColor=white)
