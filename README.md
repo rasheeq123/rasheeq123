@@ -7,7 +7,7 @@
 - 🌱 MERN enthusiast during the day, C++ data juggler by dusk. Crafting elegant solutions and unlocking algorithmic mysteries.
 - ⚛️ Full Stack Web Developer (MERN)  
 - 📫 How to reach me **zehrarasheeq@gmail.com**
-<img align="right" alt="coding" width="300" height="180" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif">
+<img align="right" alt="coding" width="300" height="180" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif"><br>
   
 
 ## Things I deal with
