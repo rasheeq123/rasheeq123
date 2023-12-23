@@ -43,4 +43,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheeq123&" alt="rasheeq123" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheeq123&label=Profile%20views&color=0e75b6&style=flat" alt="rasheeq123" /> </p>
 
