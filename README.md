@@ -8,7 +8,7 @@
 - ⚛️ Full Stack Web Developer (MERN)
 - 🗣️ Public Speaker
 - 📚 Literature Enthusiast
-- 📫 How to reach me **zehrarasheeq@gmail.com**
+
   
 <img align="right" alt="coding" width="300" height="180" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif"><br>
   
@@ -43,6 +43,7 @@
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizvi_rasheeq_7985)
 [![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rasheeq_123)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Rasheeq_Zehra/)
+
 
 
 ## Github History
