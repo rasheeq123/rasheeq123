@@ -8,6 +8,7 @@
 - ⚛️ Full Stack Web Developer (MERN)
 - 🗣️ Public Speaker
 - 📚 Literature Enthusiast
+  <img align="right" alt="coding" width="200" height="120" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif"><br>
   
 ## Things I deal with
 ![MUI](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor)
@@ -34,7 +35,7 @@
 ![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)
 ![mendeley](https://img.shields.io/badge/xampp-white?style=for-the-badge&logo=xampp&logoColor)
 
-<img align="right" alt="coding" width="200" height="120" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif"><br>
+
 
 ## Where to find me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheeq-zehra-mern-developer/)
