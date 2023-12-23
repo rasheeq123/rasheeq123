@@ -8,6 +8,8 @@
 - ⚛️ Full Stack Web Developer (MERN)
 - 🗣️ Public Speaker
 - 📚 Literature Enthusiast
+
+  
   <img align="right" alt="coding" width="200" height="120" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif"><br>
   
 ## Things I deal with
