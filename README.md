@@ -7,8 +7,6 @@
 - 🌱 Currently broadening my skill in *Full Stack Web Development(MERN)*  
 - 📫 How to reach me **zehrarasheeq@gmail.com**
   
-<h1 align="left">Github History:</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasheeq123&show_icons=true&locale=en" alt="Rasheeq" /></p>
 
 ## Things I deal with
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -41,8 +39,10 @@
 [![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rasheeq_123)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Rasheeq_Zehra/)
 
+
 ## Github History
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasheeq123&show_icons=true&locale=en&layout=compact" alt="rasheeq123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheeq123&" alt="rasheeq123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasheeq123&show_icons=true&locale=en" alt="Rasheeq" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheeq123&label=Profile%20views&color=0e75b6&style=flat" alt="rasheeq123" /> </p>
 
