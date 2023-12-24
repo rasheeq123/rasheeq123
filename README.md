@@ -37,6 +37,7 @@
 ![canve](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white)
 ![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)
 ![xampp](https://img.shields.io/badge/xampp-grey?style=for-the-badge&logo=xampp&logoColor)
+![React-Router](https://img.shields.io/badge/react-router-grey?style=for-the-badge&logo=react-router&logoColor)
 
 
 
