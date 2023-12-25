@@ -10,7 +10,6 @@
 - 📚 Literature Enthusiast
 - 🚀 Crafting code and conquering challenges, one commit at a time. 
 
-  
 
 ## Things I deal with
 ![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=MUI&logoColor)
