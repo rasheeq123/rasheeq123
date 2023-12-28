@@ -2,7 +2,6 @@
 <h1 align="left">Hi 👋, I'm Rasheeq</h1>
 <h4 align="left">A Computer science and engineering geek, eager to undertake new challenges and pursue opportunities to enhance my skills!</h4>
 
-
 - 🌱 MERN enthusiast during the day, C++ juggler by dusk. Crafting elegant solutions and unlocking algorithmic mysteries.
 - ⚛️ Full Stack Web Developer (MERN)
 - 🗣️ Public Speaker
