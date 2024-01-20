@@ -1,6 +1,5 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
-<img align="center" alt="coding" width="1050" height="350" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" >
 
 <h1 align="left">Hi 👋, I'm Rasheeq</h1>
 <h4 align="left">A Computer science and engineering geek, eager to undertake new challenges and pursue opportunities to enhance my skills!</h4>
