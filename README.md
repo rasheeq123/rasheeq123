@@ -1,7 +1,5 @@
-![MasterHead]
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
 <h1 align="left">Hi 👋, I'm Rasheeq</h1>
 <h4 align="left">A Computer science and engineering geek, eager to undertake new challenges and pursue opportunities to enhance my skills!</h4>
