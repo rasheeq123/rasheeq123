@@ -10,6 +10,8 @@
 - 📚 Literature Enthusiast
 - 🚀 Crafting code and conquering challenges, one commit at a time
 
+  <img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="200" align="right" />
+
 
 ## Things I deal with
 ![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=MUI&logoColor)
