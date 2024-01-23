@@ -39,7 +39,7 @@
 ![canve](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white)
 ![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)
 ![xampp](https://img.shields.io/badge/xampp-grey?style=for-the-badge&logo=xampp&logoColor)
-![gamma](https://img.shields.io/badge/gamma-purple?style=for-the-badge&logo=gamma.app&logoColor)
+![gamma](https://img.shields.io/badge/gamma-purple?style=for-the-badge&logo=gamma&logoColor)
 
 
 
