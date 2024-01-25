@@ -42,8 +42,6 @@
 ![gamma](https://img.shields.io/badge/gamma-purple?style=for-the-badge&logo=gamma&logoColor)
 
 
-
-
 ## Where to find me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheeq-zehra-mern-developer/)
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizvi_rasheeq_7985)
@@ -57,6 +55,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasheeq123&show_icons=true&locale=en" alt="Rasheeq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheeq123&" alt="rasheeq123" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheeq123&label=Profile%20views&color=0e75b6&style=flat" alt="rasheeq123" /> </p>
 
