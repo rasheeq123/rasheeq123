@@ -26,7 +26,6 @@
 ![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-1DA1F2?style=for-the-badge&logo=yarn&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-1DA1F2?style=for-the-badge&logo=markdown&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor)
 ![expressjs](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor)
 ![c](https://img.shields.io/badge/-C?style=for-the-badge&logo=C&logoColor=white)
