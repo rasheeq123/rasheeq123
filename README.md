@@ -1,5 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="800">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheeq123&label=Profile%20views&color=0e75b6&style=flat" alt="rasheeq123" /> </p>
 
 <h1 align="left">Hi 👋, I'm Rasheeq</h1>
 <h4 align="left">A Computer science and engineering geek, eager to undertake new challenges and pursue opportunities to enhance my skills!</h4>
@@ -45,7 +46,7 @@
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizvi_rasheeq_7985)
 [![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rasheeq_123)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Rasheeq_Zehra/)
-[![CodingNinjas](https://img.shields.io/badge/codingninjas-1DA1F2?style=for-the-badge&logo=codingninjas&logoColor=red)](https://www.codingninjas.com/studio/profile/4a4801ee-9b36-4da0-bd85-ef981880a172)
+[![CodingNinjas](https://img.shields.io/badge/codingninjas-1DA1F2?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/4a4801ee-9b36-4da0-bd85-ef981880a172)
 
 
 
@@ -56,5 +57,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasheeq123&show_icons=true&locale=en" alt="Rasheeq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheeq123&" alt="rasheeq123" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheeq123&label=Profile%20views&color=0e75b6&style=flat" alt="rasheeq123" /> </p>
+
 
