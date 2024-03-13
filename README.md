@@ -45,6 +45,9 @@
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizvi_rasheeq_7985)
 [![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rasheeq_123)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Rasheeq_Zehra/)
+[![CodingNinjas](https://www.codingninjas.com/studio/profile/4a4801ee-9b36-4da0-bd85-ef981880a172)
+
+
 
 
 
