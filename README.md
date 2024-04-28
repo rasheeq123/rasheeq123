@@ -39,7 +39,6 @@
 ![xampp](https://img.shields.io/badge/xampp-grey?style=for-the-badge&logo=xampp&logoColor)
 ![gamma](https://img.shields.io/badge/gamma-purple?style=for-the-badge&logo=gamma&logoColor)
 
-
 ## Where to find me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheeq-zehra-mern-developer/)
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizvi_rasheeq_7985)
