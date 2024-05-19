@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheeq123&label=Profile%20views&color=0e75b6&style=flat" alt="rasheeq123" /> </p>
 
 <h1 align="left">Hi 👋, I'm Rasheeq</h1>
