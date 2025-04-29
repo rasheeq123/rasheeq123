@@ -7,8 +7,8 @@
 
  <img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="200" align="right" />
 
-- 🌱 MERN enthusiast during the day, C++ juggler by dusk. Crafting elegant solutions and unlocking algorithmic mysteries.
-- ⚛️ Full Stack Web Developer (MERN)
+- 🌱 MERN and .NET enthusiast during the day, C++ juggler by dusk. Crafting elegant solutions and unlocking algorithmic mysteries.
+- ⚛️ Full Stack Web Developer (MERN) (ASP.NET MVC Core)
 - 🗣️ Public Speaker
 - 📚 Literature Enthusiast
 - 🚀 Crafting code and conquering challenges, one commit at a time
